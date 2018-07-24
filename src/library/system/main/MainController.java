@@ -188,7 +188,7 @@ public class MainController implements Initializable {
                     availableText.setText("NotAvailable");
                 }
             } else {
-                MessageBox.showErrorMessage("Error", "Can't fing book for this id");
+                MessageBox.showErrorMessage("Error", "Can't fing book ");
             }
         } catch (NumberFormatException e) {
             MessageBox.showErrorMessage("Error", "Invalid input for book id");
