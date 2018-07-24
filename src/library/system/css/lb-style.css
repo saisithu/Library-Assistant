@@ -1,0 +1,18 @@
+
+
+.button{
+    -fx-background-color: #263238;
+    -fx-text-fill: #eceff1;
+}
+
+.glyph-icon{
+    -fx-fill: #eceff1;
+}
+
+.my-own-btn{
+    -fx-background-color: ff0000;
+}
+
+.side-panel{
+    -fx-background-color: #263238;
+}
